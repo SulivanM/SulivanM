@@ -1,1 +1,0 @@
-![Snake Animation](https://github.com/SulivanM/SulivanM/blob/output/github-contribution-grid-snake.svg)
