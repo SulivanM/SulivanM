@@ -1,20 +1,36 @@
-![snake gif](https://github.com/SulivanM/SulivanM/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/SulivanM/SulivanM/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
-# Salut, moi c'est Sulivan 👋
+# SALUT, MOI C'EST SULIVAN 👋
 
-[![Followers](https://img.shields.io/github/followers/SulivanM?label=Followers&style=social)](https://github.com/SulivanM?tab=followers)
-[![Visitor](https://visitor-badge.glitch.me/badge?page_id=SulivanM.SulivanM)](https://github.com/SulivanM)
+<p align="center">
+  <a href="https://github.com/SulivanM?tab=followers">
+    <img src="https://img.shields.io/github/followers/SulivanM?label=FOLLOWERS&style=social" alt="Followers"/>
+  </a>
+</p>
 
-## 📊 Mes Stats GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight)
+## 📊 MES STATS GITHUB
 
-## 🔥 Streak & Trophées
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SulivanM&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=SulivanM&theme=radical&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
+</p>
 
-## 🛠️ Tech & Languages
-Langages et outils principaux visibles ci‑dessus.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-## ✉️ Contact
-- GitHub : [@SulivanM](https://github.com/SulivanM)
+## 🔥 STREAK & TROPHÉES
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulivanM&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SulivanM&theme=radical&no-frame=true&margin-w=10" alt="Trophies"/>
+</p>
+
+## 🛠️ TECH & LANGUAGES
+
+LANGAGES ET OUTILS PRINCIPAUX VISIBLES CI‑DESSUS.
+
+## ✉️ CONTACT
+
+- GITHUB : [@SULIVANM](https://github.com/SulivanM)
