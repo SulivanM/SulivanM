@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SulivanM/SulivanM/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/SulivanM/SulivanM/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
 # SALUT, MOI C'EST SULIVAN 👋
@@ -13,18 +13,27 @@
 ## 📊 MES STATS GITHUB
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=15" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
 </p>
 
 ## 🔥 STREAK & TROPHÉES
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulivanM&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SulivanM&theme=radical&no-frame=true&margin-w=10" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SulivanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+</p>
+
+## 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulivanM&theme=tokyo-night&hide_border=true&radius=15" alt="Activity Graph"/>
 </p>
 
 ## 🛠️ TECH & LANGUAGES
