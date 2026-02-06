@@ -23,11 +23,11 @@
 ## 🔥 STREAK & TROPHÉES
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SulivanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy-ruby.vercel.app/?username=SulivanM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
