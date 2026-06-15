@@ -20,14 +20,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
 </p>
 
-## 🔥 STREAK & TROPHÉES
+## 🔥 STREAK
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/?username=SulivanM&theme=tokyonight" alt="Trophies"/>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
