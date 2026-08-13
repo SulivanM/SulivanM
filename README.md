@@ -13,23 +13,23 @@
 ## 📊 MES STATS GITHUB
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-one-delta.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-sulivan.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+  <img src="https://github-readme-stats-one-delta.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ## 🔥 STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SulivanM&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulivanM&theme=tokyo-night&hide_border=true&radius=15" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulivanM&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ## 🛠️ TECH & LANGUAGES
