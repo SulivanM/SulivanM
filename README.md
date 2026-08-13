@@ -13,23 +13,21 @@
 ## 📊 MES STATS GITHUB
 
 <p align="center">
-  <img src="https://github-readme-stats-one-delta.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SulivanM&query=public_repos&label=PUBLIC%20REPOS&color=blue&style=flat-square" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SulivanM&query=public_gists&label=GISTS&color=blueviolet&style=flat-square" alt="Gists"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-delta.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-ACTIVE-green?style=flat-square&logo=github" alt="Contributions"/>
+  <img src="https://img.shields.io/github/last-commit/SulivanM/SulivanM?style=flat-square&logo=github&label=LAST%20UPDATE" alt="Last Update"/>
 </p>
 
-## 🔥 STREAK
+## 🔥 ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SulivanM&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-## 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulivanM&theme=tokyo-night" alt="Activity Graph"/>
+  <a href="https://github.com/SulivanM?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW-MY%20REPOS-blue?style=for-the-badge&logo=github" alt="View Repos"/>
+  </a>
 </p>
 
 ## 🛠️ TECH & LANGUAGES
