@@ -13,17 +13,17 @@
 ## 📊 MES STATS GITHUB
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulivanM&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=15" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-main-sulivan.vercel.app/api/top-langs/?username=SulivanM&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
 </p>
 
 ## 🔥 STREAK
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SulivanM&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 ## 📈 CONTRIBUTION GRAPH
